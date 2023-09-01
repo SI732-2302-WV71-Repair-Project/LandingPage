@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(to right,#ffffff, #ccd4ff)
+}
+.navbar{
+    background: #242e50!important;
+    
+    .nav-link, .navbar-brand{
+        color: aliceblue!important;
+    }
+}
+.call{
+    background-color: #E36397;
+    border: none;
+}
+.icon-lg {
+    font-size: 4em;
+}
+.card-collection{
+    justify-content: space-around;
+}
+.services{
+    background-image: linear-gradient(to bottom,#E36397, #3bbaff);
+    border: none;
+    text-align: center;
+    color: #FFFBFC;
+    width: 32%;
+}
+.btn-secondary{
+    border:0;
+    background-color: #242e50;
+}

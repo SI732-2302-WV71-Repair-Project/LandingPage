@@ -19,13 +19,13 @@ body{
     justify-content: space-around;
 }
 .services{
-    background-image: linear-gradient(to bottom,#E36397, #3bbaff);
+    background-image: linear-gradient(to bottom,#ffffff, #ccd4ff);
     border: none;
     text-align: center;
-    color: #FFFBFC;
+    color: #202020;
     width: 32%;
 }
 .btn-secondary{
     border:0;
-    background-color: #242e50;
+    background-color: #E36397;
 }

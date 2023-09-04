@@ -4,7 +4,11 @@ body{
 
 .navbar{
     background: #242e50!important;
-    
+    padding: 10px; /* Espaciado interno de la barra de navegación */
+    position: fixed; /* Fija la barra en la parte superior de la página */
+    top: 0; /* La barra se fija en la parte superior */
+    width: 100%;
+    z-index: 2;
     .nav-link, .navbar-brand{
         color: aliceblue!important;
     }

@@ -1,6 +1,7 @@
 body{
     background-image: linear-gradient(to right,#ffffff, #ccd4ff)
 }
+
 .navbar{
     background: #242e50!important;
     
@@ -8,22 +9,31 @@ body{
         color: aliceblue!important;
     }
 }
+
 .call{
     background-color: #E36397;
     border: none;
 }
+
 .icon-lg {
     font-size: 4em;
 }
+
 .card-collection{
     justify-content: space-around;
 }
+
 .services{
     background-image: linear-gradient(to bottom,#ffffff, #ccd4ff);
     border: none;
     text-align: center;
     color: #202020;
     width: 32%;
+}
+
+.featurette{
+    display: flex;
+    align-items: center;
 }
 .btn-secondary{
     border:0;

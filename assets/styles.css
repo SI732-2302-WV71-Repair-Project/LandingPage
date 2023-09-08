@@ -28,7 +28,7 @@ body{
 }
 
 .services{
-    background-image: linear-gradient(to bottom,#ffffff, #ccd4ff);
+    background-image: linear-gradient(to bottom,#ffffff, #ffffff);
     border: none;
     text-align: center;
     color: #202020;
@@ -42,4 +42,14 @@ body{
 .btn-secondary{
     border:0;
     background-color: #E36397;
+}
+.card-suscription{
+    margin: auto;
+    width: 80%;
+    .text-bg-primary{
+        background-color: #E36397!important;
+    }
+    .border-primary{
+        border-color: #E36397!important;
+    }
 }
